@@ -1,0 +1,60 @@
+.container{
+    width: 70%;
+    height: 90vh;
+    margin: auto;
+    border: 3px solid rgba(0, 0, 0, 0.301);
+    margin-top:2rem;
+    text-align: center;
+    background-color: whitesmoke;
+}
+.container h1{
+    font-size:40px;
+    margin-top: 10px;
+}
+.row{
+    width: 99%;
+    height: 5vh;
+}
+input{
+    width: 12%;
+    height: 3vh;
+    font-size: 20px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 5px;
+}
+button{
+    width: 10%;
+    height: 4vh;
+    margin-left: 1rem;
+}
+button:hover{
+    background-color:red;
+    color:white;
+}
+#up:hover{
+    background-color: green;
+}
+p{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+ul{
+    text-align: left;
+    color: orangered;
+}
+#second{
+    width: 100%;
+    display: none;
+}
+#first{
+    display:block;
+    width: 100%;
+}
+.light{
+    color: orangered;
+}
+h2{
+    color:orangered;
+    font-size: 45px;
+}
